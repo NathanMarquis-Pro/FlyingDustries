@@ -1,0 +1,16 @@
+# B3
+
+*Zhang Dylan , Marquis Nathan, Flagothier Lorenzo, groupe B3*
+
+Il semble que vous n'avez pas comrpis ce qui était demandé, ni même le problème posé.
+Dès le premier exemple vous donnez non seulement une ville de départ et une ville d'arrivée, mais aussi des villes étape. Or, vous ne connaissez pas d'algorithme permettant de calculer un itinéraire avec des villes étape.
+On dirait que vous avez confondu le problème et sa solution. 
+
+Au final vous avez proposé un modèle pour la V1 telle qu'elle était demandée (même si votre exemple parle d'un problème différent). Par conter, pas de modèle permettant de résoudle la V2 ni la V3.
+Votre solution pour la V1 est inutilement compliquée : il n'y a pas besoin de construire trois graphes pour les trois critères; il suffit de construire celui pour le critère demandé par l'utilisatrice.
+
+Aussi, il n'y avait nul besoin de présenter l'algorithme de Dijkstra, surtout en le copiant quelque part sans donner la référence; ça s'appelle du plagiat. On vous a fourni une bibliothèque permettant de faire les calculs sur les graphes. 
+Votre travail consistait à dessiner le graphe qui permet de résoudre le problème posé, et ensuite à expliquer comment ce graphe est construit.
+Votre construction de graphe pour la V1 semble presque correcte dans le code, mais pas dans le rapport.
+
+Dans l'avenir, si vous n'êtes pas sûrs de comprendre ce qui est demandé, pensez à demander aux enseignants; vous auriez pu m'envoyer un mail pour avoir des précisions.
